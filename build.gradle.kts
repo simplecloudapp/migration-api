@@ -16,7 +16,9 @@ repositories {
 }
 
 dependencies {
-    compileOnly(rootProject.libs.kotlin.jvm)
+    implementation(rootProject.libs.kotlin.jvm)
+    implementation(rootProject.libs.bundles.configurate)
+    implementation(rootProject.libs.bundles.log4j)
 }
 
 kotlin {

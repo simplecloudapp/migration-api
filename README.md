@@ -1,4 +1,4 @@
-# Plugin API
+# Migration API
 
 ![Banner][banner]
 

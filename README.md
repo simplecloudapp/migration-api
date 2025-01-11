@@ -72,7 +72,7 @@ This repository is licensed under [Apache 2.0][license].
 
 <!-- ✅ PLEASE EDIT -->
 
-[banner]: https://raw.githubusercontent.com/simplecloudapp/branding/refs/heads/main/readme/banner/migration-api.png
+[banner]: https://simplecloud.app/api/banner/Migration%20API
 [issue-bug-report]: https://github.com/simplecloudapii/migration-api/issues/new?labels=bug&projects=template=01_BUG-REPORT.yml&title=%5BBUG%5D+%3Ctitle%3E
 [issue-feature-request]: https://github.com/simplecloudapii/migration-api/discussions/new?category=ideas
 
